@@ -25,9 +25,6 @@ public class Fibonacci {
     }
 
     public static void main(String[] args) {
-        System.out.println(fib(10));
-        System.out.println(fib(20));
-        System.out.println(fib(25));
-
+        System.out.println(fib(18));
     }
 }
