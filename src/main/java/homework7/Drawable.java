@@ -1,4 +1,7 @@
+/** @author <Tatia Idukashvili> */
+
 package homework7;
 
-public class Drawable {
+public interface Drawable {
+    void draw();
 }
